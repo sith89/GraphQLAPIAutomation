@@ -1,4 +1,4 @@
-# GraphQLAPIAutomation
+# GraphQL API Automation
 This project is a sample project which demonstrate GraphQL API automation with Rest Assured and Java
 
 Precondtion
